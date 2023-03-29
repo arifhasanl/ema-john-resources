@@ -1,0 +1,39 @@
+.prodect{
+    width:300px;
+    height: 500px;
+    border: 1px solid darkslateblue;
+    margin-bottom: 30px;
+    position: relative;
+}
+.prodect img{
+width:100%;
+margin: 7px;
+}
+.prodect-content{
+    margin:10px;
+
+}
+.prodect-content h4{
+
+    margin:0;
+}
+.prodect-content h5{
+
+    margin:5px 0;
+}
+
+.prodect-content p .seller{
+
+    margin: 0;
+}
+.prodect-content p{
+    
+    margin: 0;
+}
+.prodect-content button {
+	background: #FFE0B3;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
